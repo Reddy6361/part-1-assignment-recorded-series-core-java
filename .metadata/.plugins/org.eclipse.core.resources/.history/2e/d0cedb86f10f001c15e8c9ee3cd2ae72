@@ -1,0 +1,13 @@
+package part1SesssionTwo;
+
+/*STRING CONSTANT POOL: where object is created is stored in string constant pool
+ * 
+ *  ######################
+ * 
+ *  ######################
+ * */
+public  class Ex5 {
+	public static void main(String[] args) {
+
+	}
+}

@@ -1,0 +1,8 @@
+package part1SessionThree;
+
+/*VALUEOF(var) method converts given type such as int, float, double, bool etc to string*/
+public class Ex5 {
+	public static void main(String[] args) {
+
+	}
+}

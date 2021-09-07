@@ -1,0 +1,11 @@
+package part1SessionOne;
+
+/*Mutable and Immutable
+ * Mutable: Is something where in class object property keeps on changing.
+ * Immutable:
+ * */
+public class Ex6 {
+	public static void main(String[] args) {
+
+	}
+}

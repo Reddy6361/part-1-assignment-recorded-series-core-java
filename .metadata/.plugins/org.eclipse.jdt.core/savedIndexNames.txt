@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+F:\Pankaj Sir Academy\Assignment Recorded part 1(9 from string ) part2(18 clases)\part1\.metadata\.plugins\org.eclipse.jdt.core
+567879006.index
+365342600.index
+3826495940.index
+1774617034.index

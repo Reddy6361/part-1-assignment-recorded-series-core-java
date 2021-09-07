@@ -1,0 +1,10 @@
+package part1SessionThree;
+
+/*STRING TO UPPERCASE & LOWERCASE*/
+public class Ex1 {
+	public static void main(String[] args) {
+		String str = "pAnkaJ Sir ACAdemy";
+		System.out.println(str.toLowerCase());
+		System.out.println(str.toUpperCase());
+	}
+}

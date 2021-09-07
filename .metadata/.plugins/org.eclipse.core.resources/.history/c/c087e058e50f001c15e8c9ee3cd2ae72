@@ -1,0 +1,23 @@
+package part1SessionOne;
+
+/*COUNT THE NUMBER OF WORDS IN GIVEN STATEMENT
+ * 1) 
+ * 
+ * 
+ * */
+public class Ex2 {
+	public static void main(String[] args) {
+		String str = "Hello my Name is Yog"; // bug is if there is space at begining of
+		// sentence it will consider it as word too so we always trim first then we
+		// split based on spaces.
+		String[] s = str.trim().split(" ");
+		System.out.println(s.length);
+		
+		
+		// * to print words *//
+		for (String string : s) {
+			System.out.println(string);
+		}
+
+	}
+}

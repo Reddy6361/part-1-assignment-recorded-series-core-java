@@ -1,0 +1,15 @@
+package part1SessionOne;
+
+/*REVERSE A GIVEN STRING
+ * 1) 
+ * 
+ * 
+ * */
+public class Ex1 {
+	public static void main(String[] args) {
+		String str ="pankaj sir academy";
+		for (int i = str.length()-1; i >=0 ; i--) {
+			System.out.println(charAt(i));
+		}
+	}
+}
