@@ -1,8 +1,0 @@
-package part1SessionThree;
-
-/*REMOVE WHITE SPACES*/
-public class Ex2 {
-	public static void main(String[] args) {
-
-	}
-}

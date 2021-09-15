@@ -1,8 +1,0 @@
-package part1SessionThree;
-
-/*STRING TO UPPERCASE & LOWERCASE*/
-public class Ex1 {
-	public static void main(String[] args) {
-
-	}
-}

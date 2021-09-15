@@ -1,8 +1,0 @@
-package part1SessionThree;
-
-/*CHECK STRING IF IT STARTS WITH ANY LETTER.*/
-public class Ex3 {
-	public static void main(String[] args) {
-
-	}
-}

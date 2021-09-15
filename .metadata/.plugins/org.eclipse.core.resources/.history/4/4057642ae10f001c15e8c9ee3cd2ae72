@@ -1,8 +1,0 @@
-package part1SessionOne;
-
-/*REVERSE A GIVEN STRING*/
-public class Ex1 {
-	public static void main(String[] args) {
-
-	}
-}

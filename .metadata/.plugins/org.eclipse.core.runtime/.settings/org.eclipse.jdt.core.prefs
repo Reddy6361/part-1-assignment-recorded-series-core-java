@@ -1,7 +1,7 @@
 eclipse.preferences.version=1
 org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/yog/Downloads/eclipse-jee-2021-03-R-win32-x86_64/eclipse/
-org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Users/yog/Downloads/eclipse-jee-2021-03-R-win32-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/lib/jrt-fs.jar
-org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Users/yog/Downloads/eclipse-jee-2021-03-R-win32-x86_64/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.2.v20210201-0955/jre/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk1.8.0_291/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk1.8.0_291/src.zip
 org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/yog/Downloads/eclipse-jee-2021-03-R-win32-x86_64/eclipse/plugins/org.junit_4.13.0.v20200204-1500.jar
 org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/yog/.m2/repository

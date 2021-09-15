@@ -1,9 +1,0 @@
-package part1SessionThree;
-
-/*Assignment 1
- * WRITE A PROGRAM TO FIND HOW MANY a's and b's are there in (aabaaaabaa)*/
-public class Ex6 {
-	public static void main(String[] args) {
-
-	}
-}
