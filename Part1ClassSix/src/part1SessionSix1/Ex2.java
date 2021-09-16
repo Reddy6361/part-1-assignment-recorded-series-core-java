@@ -1,4 +1,4 @@
-package part1SessionFive;
+package part1SessionSix1;
 
 /*Thread Synchronization:
  * When 2 threads are operating on common data the data might get corrupted because of 

@@ -1,4 +1,4 @@
-package part1SessionFive;
+package part1SessionSix1;
 
 public class Ex2_1 extends Thread {
 	static int total = 0;
